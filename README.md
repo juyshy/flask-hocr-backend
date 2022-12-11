@@ -1,2 +1,2 @@
-# flask-horc-backend
-orc proofreading backend service
+# flask-hocr-backend
+ocr proofreading backend service
